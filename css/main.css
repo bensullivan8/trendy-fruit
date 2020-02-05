@@ -21,7 +21,7 @@ body, h2 {
 }
 
 .flex-wrap {
-  margin-top: 1em;
+  margin: 0;
   display: block;
 }
 
@@ -38,7 +38,7 @@ p {
 }
 
 .persi {
-  font-family: "Comfortaa", cursive;
+  font-family: Comfortaa, cursive;
 }
 
 .red {
@@ -51,16 +51,4 @@ p {
 
 .orange {
   background-color: #e86033;
-}
-
-@media only screen and (min-width: 38em) {
-
-}
-
-@media only screen and (min-width: 60em) {
-
-}
-
-@media only screen and (min-width: 90em) {
-
 }
