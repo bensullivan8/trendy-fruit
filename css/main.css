@@ -10,6 +10,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -20,19 +21,15 @@ body, h2 {
   margin: 0;
 }
 
-p {
-  font-family: "Open Sans", sans-serif;
-}
-
-.water {
+.red h2 {
   font-family: "Rammetto One", cursive;
 }
 
-.star {
+.yellow h2 {
   font-family: "Gravitas One", cursive;
 }
 
-.persi {
+.orange h2 {
   font-family: Comfortaa, cursive;
 }
 
